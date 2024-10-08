@@ -1,0 +1,1 @@
+docker build -t insujin/anomaly/usad1 .

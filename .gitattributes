@@ -1,2 +1,26 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+DeepAnt/data/test.csv filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/output/SWAT/31082024_103730/train_output.pkl filter=lfs diff=lfs merge=lfs -text
+DeepAnt/data/train.csv filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/data/SWAT/test.pkl filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/data/SWAT/train.pkl filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/data/SWAT/swat_test.csv filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/data/SWAT/swat_train.csv filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/output/SWAT/03092024_054247/test_output.pkl filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/output/SWAT/05092024_021211/test_output.pkl filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/output/SWAT/31082024_103730/test_output.pkl filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/output/SWAT/31082024_123825/test_output.pkl filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/output/SWAT/31082024_131513/test_output.pkl filter=lfs diff=lfs merge=lfs -text
+USAD/data/SWAT/SWaT_Dataset_Attack_v0.csv filter=lfs diff=lfs merge=lfs -text
+USAD/data/SWAT/SWaT_Dataset_Normal_v0.csv filter=lfs diff=lfs merge=lfs -text
+USAD/data/SWAT/test.csv filter=lfs diff=lfs merge=lfs -text
+USAD/data/SWAT/train.csv filter=lfs diff=lfs merge=lfs -text
+USAD/results/PRESTO/05092024_034804.pth filter=lfs diff=lfs merge=lfs -text
+USAD/results/PRESTO/02092024_081220.pth filter=lfs diff=lfs merge=lfs -text
+USAD/results/SWAT/03092024_043019.pth filter=lfs diff=lfs merge=lfs -text
+DeepAnt/data/SWAT/test.csv filter=lfs diff=lfs merge=lfs -text
+DeepAnt/data/SWAT/train.csv filter=lfs diff=lfs merge=lfs -text
+USAD/results/SWAT/02092024_081220.pth filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/data/SWAT/data/test.pkl filter=lfs diff=lfs merge=lfs -text
+MTAD-GAT/data/SWAT/data/train.pkl filter=lfs diff=lfs merge=lfs -text

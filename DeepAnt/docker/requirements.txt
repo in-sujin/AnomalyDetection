@@ -1,0 +1,9 @@
+pandas
+pytorch-lightning
+numpy
+torchinfo
+matplotlib
+scipy
+plotly
+scikit-learn
+seaborn
